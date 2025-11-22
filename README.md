@@ -112,10 +112,3 @@ Notebooks:
 - FastAPI endpoints generate **actual images** via base64.
 
 ---
-
-## 📬 Contact
-
-**Aidynbek Mussa**  
-Columbia University · Applied Analytics  
-GitHub: https://github.com/aidynbekmussa2000  
-Email: aidynbek.mussa@columbia.edu
