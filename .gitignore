@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+.env
+
+# big data
+data/
+*.tar.gz
+
+# models & images (optional)
+*.pth
+*.png
